@@ -21,6 +21,6 @@ The entire project is opensource and can be self-hosted anywhere thanks to the c
 Make sure to have the following packages installed and configured according to your distribution: 
 
 1. docker (make sure to have your user in docker group. follow this tutorial: https://docs.docker.com/engine/install/linux-postinstall/)
-2. minikube 
+2. kind (possible to use minikube) 
 3. kubectl 
 
